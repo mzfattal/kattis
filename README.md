@@ -1,1 +1,1 @@
-"# Kattis Problems Solved"
+# Kattis Problems Solved
