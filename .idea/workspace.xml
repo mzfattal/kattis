@@ -222,7 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600080162298" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600080368982" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/COSC 3P91/Assignment1" />
   </component>
   <component name="RunDashboard">
@@ -237,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReachableRoads">
+  <component name="RunManager" selected="Application.RunLengthCodingRun">
     <configuration name="DeduplicatingFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeduplicatingFiles" />
       <module name="kattis" />
@@ -266,27 +266,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tri" />
+    <configuration name="RunLengthCodingRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunLengthCodingRun" />
       <module name="kattis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tri" />
       <item itemvalue="Application.DeduplicatingFiles" />
       <item itemvalue="Application.EpigDanceOff" />
       <item itemvalue="Application.HotHike" />
       <item itemvalue="Application.ReachableRoads" />
+      <item itemvalue="Application.RunLengthCodingRun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunLengthCodingRun" />
         <item itemvalue="Application.ReachableRoads" />
         <item itemvalue="Application.HotHike" />
         <item itemvalue="Application.EpigDanceOff" />
         <item itemvalue="Application.DeduplicatingFiles" />
-        <item itemvalue="Application.Tri" />
       </list>
     </recent_temporary>
   </component>
