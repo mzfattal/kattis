@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb8c450-bd01-4ec0-8c13-9d0f2bc793c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sortOfSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,33 +17,33 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="11" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="32" />
+          <entry key="java" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="32" />
+          <entry key="JAVA" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2749" />
+          <entry key="java" value="2753" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2749" />
+          <entry key="JAVA" value="2753" />
         </counts>
       </usages-collector>
     </session>
@@ -53,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/HotHike.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -79,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HalfACookie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" column="24" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,15 +89,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BaconEggsAndSpam.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#444#469#0" expanded="true" />
-                <element signature="e#749#757#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sortOfSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/WheresMyInternet.java" />
         <option value="$PROJECT_DIR$/src/HalfACookie.java" />
         <option value="$PROJECT_DIR$/src/BaconEggsAndSpam.java" />
+        <option value="$PROJECT_DIR$/src/sortOfSorting.java" />
       </list>
     </option>
   </component>
@@ -161,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,13 +190,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600249044201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600249407649" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/COSC 3P91/Assignment1" />
   </component>
   <component name="RunDashboard">
@@ -198,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sortOfSorting">
+  <component name="RunManager" selected="Application.BusySchedule">
     <configuration name="BaconEggsAndSpam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaconEggsAndSpam" />
       <module name="kattis" />
@@ -206,15 +218,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfACookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HalfACookie" />
+    <configuration name="BusySchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BusySchedule" />
       <module name="kattis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthCodingRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunLengthCodingRun" />
+    <configuration name="HalfACookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HalfACookie" />
       <module name="kattis" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RunLengthCodingRun" />
       <item itemvalue="Application.WheresMyInternet" />
       <item itemvalue="Application.HalfACookie" />
       <item itemvalue="Application.BaconEggsAndSpam" />
       <item itemvalue="Application.sortOfSorting" />
+      <item itemvalue="Application.BusySchedule" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusySchedule" />
         <item itemvalue="Application.sortOfSorting" />
         <item itemvalue="Application.BaconEggsAndSpam" />
         <item itemvalue="Application.HalfACookie" />
         <item itemvalue="Application.WheresMyInternet" />
-        <item itemvalue="Application.RunLengthCodingRun" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +288,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -455,10 +467,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RunLengthCodingRun.java">
+    <entry file="file://$PROJECT_DIR$/src/HotHike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -469,16 +481,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HotHike.java">
+    <entry file="file://$PROJECT_DIR$/src/RunLengthCodingRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HalfACookie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="34">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -489,11 +501,19 @@
     <entry file="file://$PROJECT_DIR$/src/BaconEggsAndSpam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#444#469#0" expanded="true" />
-            <element signature="e#749#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortOfSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
